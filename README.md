@@ -1,2 +1,2 @@
-# Car-sales-analysis
-A data analysis project breaking down car sales across 10 manufacturers and various models using Excel pivots and Data visualization to derive insights
+# Car-Sales-Overview
+This dataset appears to represent sales data for 10,000 car units across 10 major manufacturers from 2010 to 2020. The total revenue (sum of Price USD) is approximately $474 million, with an average price per unit of $47,398 (or ~$47.4K). Sales are fairly evenly distributed across manufacturers, but with notable variations in units sold, average pricing, and year-over-year performance. The data focuses on revenue rather than volume in most pivots, so insights will emphasize revenue trends while cross-referencing unit counts for context.
